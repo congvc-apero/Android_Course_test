@@ -1,0 +1,105 @@
+{
+  "course_version" : 1,
+  "environment" : "Android",
+  "summary" : "This is an introductory Android course.\n- The course will be most beneficial for beginner-level Android learners.\n- The course covers core Android features.\n- It contains hands-on examples of Android code implementation and exercises to practice new skills.\n- The course is based on the author's personal experience in Android development.",
+  "title" : "Android Course",
+  "programming_language" : "kotlin",
+  "language" : "vi",
+  "course_type" : "PyCharm",
+  "vendor" : {
+    "name" : "Congvc"
+  },
+  "items" : [
+    {
+      "title" : "lesson1",
+      "task_list" : [
+        {
+          "name" : "task1",
+          "files" : {
+            "src/main/java/com/example/android/course/MainActivity.kt" : {
+              "name" : "src/main/java/com/example/android/course/MainActivity.kt",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "Lk86ztjkfVySkASj1peqm2M7+6hXRsOOUTlM0aaI3m/B4ZoNgO1dbvjtmLTmLfu0WFfFn9kBMbUGim7zLw918B8QFoipXYTDg4bSebXlzKxdKu5MYeSPyb0nv/kvm3zyKTals4Bdx2c3ZejsiUqnzLUAO7L5U+P2LmpRXLC3bpj1hT9w9JU/4ajrIGEhNHm7oP1wemU2SVl/2BtAIMKRAYazozzNUrXeLKuOaCFnG9VRVWDRZqlFRNLonmmHRIgQoJnC98eEdRvvnajYrTDXwVI85M9gGOm7NBlIyJpS6zN+2Oz7Lvyn0qSKOjCaZShmBzpqt2AVLMdNYRatzmc0UQNZp7kBcXYXXJahAWAOWC/++MM7jiTavbXA/llr2WysRaRwmcdClW35enALqcGx3EzuI+dWVfdHOttFHM0ftqo="
+            },
+            "src/main/AndroidManifest.xml" : {
+              "name" : "src/main/AndroidManifest.xml",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "7gUJNk/yTUOJbidgUzXhFJUhOsuG6IcBjgLyivFB37r+aO/lpLvNuiA2zLYwwK6zjj8jfk/1Ap6EXYAqpoIHrh2maZh7zz757yQQTJyaxPKdjmTTPefo/VjTr5oV7vuwfhNO2UnTYlUfw7n78U/iZ5CCRVKJmFYiOA6c4PyTY5x2MmDc7TElhd69F+1Y8U1DNWNHctJjK7oEdNkjB8DGqFYZBgoMIOLUQfXf7m5taMd2ek1aIEP6gH1NpzUsh82iQ6ADCgehQSFaUb87yKQZUIOQpfIUqDqS/+lmQesEpW6VxKu56GydFf5ptPJ+YErnxS7cJNweAPlgmOaJ0kG0qXbGvqIW+1ty+Tiui1Xd1OwqXuXB8NsfRAwAAGje/i/rDg/6JM2GkJ/ysoFSy3DZA+2F/igDgCpZ8Pt2qbhe0UtEfUelxc12+81TNtq1611LDYWfB0HVAmEngncTsMz+9UrDY13TumGQgl5CsIHVyHWxup2MXUKuOR34/33rK4yTbXWizGFq/JiCeAkjLMPxAJ78yB/RXT+V8Hv+7tcetm0IBt6p2aNeF656XletCU8MNaiY9SpfPQsJQYW8kOFGiGiQJje9KGEwx9G6q0cy/BVuWSDzyn4tlLZ5P877EfFRLqTGKmy3dZraXmSeS3TAQFKPUuX3cuY3otnT4ZDW0okNRjoVTnrpm27TGX0sadnJXn+EAfHewL1rp6HK/3txknXi0/K17cqJVwzqVpJE4csu9pzTmWR9ShfU0LovmfY2uXiE9L7caavLjvgq+Eog6ikztpuuh0oa9zCvx0slxlkwih7S0+uLDrTo6P4iGCuAmShUT1jK4IawTs8vxQw0pdVW/pZnZUS5YJVRVg9EaABYDkRro8F562ihis1F6ADDQXrLz5wvpGoH9nNWacu8myS9POQTYnw5oYVw5sMCUme/yKhit0luibhFCjhlLmSDQ41q/oBMwhgD7rC9/5LahQ=="
+            },
+            "src/main/res/layout/activity_main.xml" : {
+              "name" : "src/main/res/layout/activity_main.xml",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "7gUJNk/yTUOJbidgUzXhFJUhOsuG6IcBjgLyivFB37oePAhBg9DUD8g4xGSA1SNSGOuxbn4+Z66IxhebJtauPBgzG7n+6TN7a6aQ62EOmc7+H0S517bcN20Rvcm/NkpF/J3xJ8OQvFPhFNbVa8ksutIUiUaVwX5lm3oLFbOTNy0/rvbs6YHa0A2k4x8De/LV2zxMByiZsI2b26n7w5I0VpJ7Fyv5TIGvKqMj439UcnQgqVqZekHeeehq1adhoIimHXMk+n+eR+Ebxpejw1HnjUd05ptJ6aivWe7NGAfuZbyvkpTlmyYnLIaKEZHKS2ws42zDVwl5/RChaBY/9lqLFKZF98WVO0obTjqild81aUWSN7qDuRQRghqiZ34FSxz8BS08Y6VqUM+4xUqdWRMAiDh5nu/UwpLNm2H7OodZvVFOG7BsjpABfzCIoaAIf2kcndj9u+z2XYfkZxPWI+B19q9nbwFYSeQyF6VZ178oEBSqO77VIzRRDjTEkxnip/MZW0a5g5uV+WzyJQTmujCIS+8c9UmE8a50xdzR0S1Cpf0WAk3lNuK0oCsZXs3M/jT+YtE3UxHUDP7b/Rn092+HzhLmr/31cJJ0XLn51fMC47mdKixZsQqxxurHxBOnzAt88yTFhPG24qymKfxjAoRJwHKJMonjP9gGyJeETx0HxS+qA2xWyuUFKEiBHYIvBXWwj5hg3aoTUauM1pLKqOGzs2T1QrqcdZm4zPHHqv/sJ50tVbfTBWhjMg/cJgBVyV/13MAIM1wdnA+Xswa+v2zQQEL9sApzc5YHyuEkAyd3G2fw0G9pbn76WDvQ2m385KlwijZKbmIASumYqlb0lzywmz/k5c2D+diypWZPgY3A0TM2e31OZ2Ln/h2Ex6nLMWX3y/zMn0+CWw+JwyoGpQypWBtELuvjYgSV0ljJGeoDUgvAY5ccZoTlya9KBudJ1cu7snszyBrHMajGwQXcd8l80DVqqLlgHIMvZ4TFbXLXgPCi4eTS2zVmjcytcoEfdMhpndR7b9crPpe4iyuYnk1PKzYcy8Nm7y1rBsTlxD0q6qLTJ94Wia1fTQT+osAKj2tI"
+            },
+            "src/main/res/values/strings.xml" : {
+              "name" : "src/main/res/values/strings.xml",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "pU0leqrw6O7o7Za3gAvzhYN1LIlkLG53Y6Cs9ZB7LAjqWlHEIw1mu3zZc3YCWb/rxyAEGwD9vwjifrz5/UHyrVw0XbUrJcYjAo5YhFtDpIM="
+            },
+            "src/main/res/values/colors.xml" : {
+              "name" : "src/main/res/values/colors.xml",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "7gUJNk/yTUOJbidgUzXhFJUhOsuG6IcBjgLyivFB37pwgyvllO4v5FkijlU8fCBrzUgleL/2yL/LNSmWzjRoDKIXYfarycxcazJheIAF0eX6X95tl3QhnIxwCKk0Xy/yAHXHdCL+zUY6IY8xHn6jvBzn0DLZsxomVWNuik7aFwahBG7oynMATT3yFwksCziqBJrotYcWeGQ8vmv5xJAIk7xMPuro5WrcezKjQcmiJG7XyXd+V7hcaoK3H33iIP4MOG582sedc8bG2QYB/vskRkWOeIyiAfaIQjF6RvGdURFvDjOWtXOBBOaw5i/G9ehrs6mHyd3ExLFAKJyU/j/rRVFee//yBj+tOBp2oeM47DzF620PIQYcwXRisD6hVeK9f2K8Py6C0ysBbwNIhz+umN/+B2yWKxWdju1H41aGAl5QSho4smbhZZiAG+tvJ/UUEDEOKzw2nIJ5y7FNvuap8f9sETXjJG1JrpLPwynavDYvZB8zGUk8QpDRvwe1HtZS"
+            },
+            "src/main/res/values/themes.xml" : {
+              "name" : "src/main/res/values/themes.xml",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "B8eD/XR0TOFq+kJX0im1/N0HX9j7l+Kq3HEh1lpgfCFdx+xs6H5OWzutHxFu7kCfddK/78iGV3xBp8uuvC1mXTN3/21uTZ/2C6dvLyq3R2culZU9x5yB5BGE7C2sJf+Ofwr3hpr0DQiUqJykPqkwWIGtpWh8HYgvqQTSCd4rgKS2Up1gJzWluFyDuPget8POOcIt8YKiSzKih04wVDqt634ck7/GhVQfjtHJ7NIY3pIhalLY1iDFzXqlt63ZLJjGc2PVptxqXqyAZMm1Cf/H4vYHJ9k7IkjdIgUJnEFbLaSYYcv+SGBWaANYIEr9xZA9RQAb5NNAMsmSeduE3uiZIVs5wX+ob4Gbi0/0DzXPEWioAPfbkLfAQAruyTer1Ee/JPlZH99f6nl5yg9SAUf1Vnqw0vVMeJRFSUJdqRT/WdQwOX/JTAMBsYLl+/7xQWJbPcOiAKMNeEIGivPNnz99aeuaVs7ZtwBIPUNvGXxlt/EiaovR8emqlwqyavno4lLcKWvIq4LiF8F0YCRZ5QVtFx1R1PwzU72icxSTK+iN48VH2wgQbviEt2PVghlyeH8n51E2Z5OJFxjeuW6vUowwiCVlMX93yecXbDppnV8BEpwvcaF9wrQrZUbTPMnYGFaubVjx49pYDf0gPd0egHZnLkxEeuq2K7PrGlrmKf385Hwbs6OwsPuoj7Y9JPEQZYnxQLeFAu3Xjcu5S5QP2Q5KrKY1i8DZLvCy1i8w1rfhasSgZR1wn5FXfUJ8q0Vlx36QW3PkQaov1FzHlWqQOomeoRDlewRs+WZeH5SEbSn4o9bg4itB84xc+9dhbmSZUOD32xX3olrInnykMjd/btBgza84Xacq6Y6NJbUORohLL3ADNCK/4QMX+nWiPGEWR4XMtAC2dmgTX2QDEk+ajlf2/YS10auqrisGbUc92707aYffrOrBqGby0N487cAjlfR0Ne3Rv0W4NCTUW+IRWlYNBMMo5sHwf12Aq9g4gM6pPGCIzbgf58f4BiulR1y1YnQ+OxREhqBeKlKKECQIKrb7Z70mxyT7QVPDdCIHn5afBijYAwFL0sg4h+WweF/qU8Zm"
+            },
+            "src/main/res/values-night/themes.xml" : {
+              "name" : "src/main/res/values-night/themes.xml",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "B8eD/XR0TOFq+kJX0im1/N0HX9j7l+Kq3HEh1lpgfCFdx+xs6H5OWzutHxFu7kCfddK/78iGV3xBp8uuvC1mXTN3/21uTZ/2C6dvLyq3R2culZU9x5yB5BGE7C2sJf+Ofwr3hpr0DQiUqJykPqkwWIGtpWh8HYgvqQTSCd4rgKS2Up1gJzWluFyDuPget8POOcIt8YKiSzKih04wVDqt634ck7/GhVQfjtHJ7NIY3pIhalLY1iDFzXqlt63ZLJjGc2PVptxqXqyAZMm1Cf/H4vYHJ9k7IkjdIgUJnEFbLaSYYcv+SGBWaANYIEr9xZA9RQAb5NNAMsmSeduE3uiZIVs5wX+ob4Gbi0/0DzXPEWirR7HSOoC4l7EjWrIpfhR0GyF6azf6v+X2J+NAXOzWblsYIYXHSOeR09DdzQu9zvJseelhzCdvwrjljcRFmqFE/W+LmjcIjs0lMsPGyLzqHfYaYzticAA3WenFe939ZlugmBmcFQQ10t6qzqQxxLjz7Yhkvs/fO8wYDxrLJoOLXisKQeZW0gxcFuazuJ4lNDrNfWqzt+sJO+eeKdi7n2J1JqsQHJVIbTohwvmxxYy6Oe/H/HzJ+pOmLpNbImcj9XxdgOoBryLJjMFUA/y7Pqd1wUMaf59/eClF8JuHIKkwE9jVm5JgJ6/0BCKdCXzfVahc23LXCRKBRneI9ogW18BRU3SnSY9VpzrtGQyOGVhrKdwAoy/XYljso6ZqQ667uomkWXG7e4GKc3QWf1F3EV/3svvZLbk1b1JWgEJ4gm3GfY81cW7GLBNHKlDkgFJb5+9rNsN1S7ehci1ooOOkA64qsXieYmMYFBvsblVPMhEEfz7OuObAaoGxcVuasNj23d8V1bo1Vphwja54BGltgawAWauJJDAwUd+gRAodvDE3H2dPn1cuM6x0Nx2MsijmR+DSjixKtQVMJG7JULNfrLZDONuMGjKRG+mccKMKjqyeZscU69XlVK/jLoVIOBPD4Hiu/wW77ZM6FH0x+U2jMqUJV5bdxNUwOr9o0RCAgGG3kmkBkLaQGl1vCXh3U4mBeGOr7pg6A42hxXfAst7wMDiL"
+            },
+            "src/test/java/com/example/android/course/ExampleUnitTest.kt" : {
+              "name" : "src/test/java/com/example/android/course/ExampleUnitTest.kt",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "Lk86ztjkfVySkASj1peqm2M7+6hXRsOOUTlM0aaI3m+3Bu3HPZc2EbRs2Nn//7aeD3Clfb2DfNyFUhXrN5mLEjNA6p/6M5elSwsgybQVj++5LsWlKewT8t7MhC7ZMAfN3QWBw/8FIu3VjSRYBqMfXYFxxcKQHMDLJS/vOFWZD6imOqOxEI4Ue5ZO+N3gAIdbkowfXvSYA85dLskqkFqjBMOPRrqPIZWh+rBX7ZOxFg5m2A02e+L25xQkyrUZqP07Vdo4HVHpnjvn+pj6eH242YQQWlwxYIyFSwQNAeb0x4J8apdHGmbTcBP3vWsZN3StVW/a/BKFjtodi81WWao/YFel50i8ppHy0WxAJASPzXQ="
+            },
+            "src/androidTest/java/com/example/android/course/AndroidEduTestRunner.kt" : {
+              "name" : "src/androidTest/java/com/example/android/course/AndroidEduTestRunner.kt",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "Lk86ztjkfVySkASj1peqm2M7+6hXRsOOUTlM0aaI3m/B4ZoNgO1dbvjtmLTmLfu0Mt9jEtf+up6/gf9WWxocOYxPYQjTUHgSBdds6FCgn/J2xiN/P3BAW/1lizoWoJ5kw2z6cXJIVRb6HWyAvcWxl2nUR/57xtfW5bYdQ5wUne/Ewy/6XjqI+EKpSQ2URTYGJ2qDqUEv6VX9HRFnFCazBTzVwHe0Bcgsbqy9vdqStHzm80AOudW/nrncE6ztGWTLSB7LHBI3HUaGCqSoRTU4jcd55/xIcHSgw2gtlDMXXzAp/cXUJ+18zZvVWuX4BO4qtjauvzh/mMY04nT0sSKDdRqSIq3mZMOSyhPTBalwDLf0FZQe6wMkSP+fDkAw9LPhFh7W/cBqTlG5YL8CPNOAJR8e6HE5WOHWER7Meb3GYhA3dLVPucRhz5I7blrCOFEDOgmW5MrLmuljD09SxHvzmxJD0o6dG6KqaouOYjdPlOfFDj3ZLkINTpVTvqE5UZHwXz+eVHNzIrg3mqNkAZalWWLHyohWVLDZCOEtRGdIfd5hxKrPu/h6ukaDrtyFZ2nGNe7FAjLcsXDW0MKiFZ+fh+Sob5liJI9sI4IOsUUWEOlCqRriH/Th61QXhfgedQe4ni3QJ0z13bdicIVmiGxNlWNOP0pf6XTbcDv/2Ijb0jdJekfSalugnhX+Pmsss/4N32/GUEIrhEvBs3JKeSQYQQ=="
+            },
+            "src/androidTest/java/com/example/android/course/ExampleInstrumentedTest.kt" : {
+              "name" : "src/androidTest/java/com/example/android/course/ExampleInstrumentedTest.kt",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "Lk86ztjkfVySkASj1peqm2M7+6hXRsOOUTlM0aaI3m/B4ZoNgO1dbvjtmLTmLfu06rYGw8T7wisBISqVQRzeafab6+DNIt0KhoRceB0kVLT4EkNHlH0bvGnyBPujWDopGYEXdfpWmQLCGoyIV38v5nB15er2OdbcLEbI5kgvsWoJvfbCRyKRIqYEVlRuemnrJqz+JJ+Lk+AQCfv0JZE17NZYny/wE210bQAGoSx5t5ORbfLvuG6tDUh+n0NM42p+8zIhnPuRPwlr3ykx7z+hd8Q+Fb9tjFkw4VPQulIlFWvxIh4uuBp9wiYbKcbSaJxfa23apm7n05gA3JzqGOGalWdVoyvYh208wRI2tM6/rJDe0CNRyYqvEP8TdKUYAU5sLnuNxi4fuAQDHUlPc+bXYE6nebPlPRAguH0KZBpvPbX24H9PM7RAKdGnNYydIN06JQTIilS6fEmqctF2GkWyg77/ryW5WTX9/fc8ZgWyTuAfxm/yPX/Qnk6YxWoA0xszpoPD/MwKRuAd9uoFG0uSoV45yRyJTcn3MvCRL2kiRZQUDel8pJDRaZEIibUuSVFcS81ubEz1hdHxeCqMhKoYkMltVtxHfD/D0q+67E4vA3Od56HPPJsWPwrcCATKRwiVL0NgRd5Vb55x7s1dvYbjw+26+/FEHBO1ZLeMfK9I8TF3dKr7gRLSe7q5+OFGTn0wHAyirB3nhgoC/AkZ+vkjVtFvxYJwiFt4xjuCho3PegZfTft59vtfSkf5IoD693npr8BEtVbzt0Z4SlZJYPTnGWQU+z2NuggOGoVnnUiS62mtp7r8sz9+OuWF0lsDRycPv3D0xQ0Mm0ldMn5cnvGQ8heBt4DEY2QRqP98WJUXtaMDV1T8KTBJ5rArSi2TE2Bkm9lsenk3I48rhK9dzUqZRmgX32jPEohWWDR9kQEQBJujsEBehJxRk7Jdk18ynkIG"
+            }
+          },
+          "description_text" : "\nThis is a task description file.\nIts content will be displayed to a learner\nin the **Task Description** window.\n\nIt supports both Markdown and HTML.\nTo toggle the format, you can rename **task.md**\nto **task.html**, or vice versa.\nThe default task description format can be changed\nin **Preferences | Tools | Education**,\nbut this will not affect any existing task description files.\n\nThe following features are available in\n**task.md/task.html** which are specific to the JetBrains Academy plugin:\n\n- Hints can be added anywhere in the task text.\n  Type \"hint\" and press Tab.\n  Hints should be added to an empty line in the task text.\n  In hints you can use both HTML and Markdown.\n<div class=\"hint\">\n\nText of your hint\n\n</div>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JX1fwti2LI4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n- You may need to refer your learners to a particular lesson,\ntask, or file. To achieve this, you can use the in-course links.\nSpecify the path using the `[link_text](course://lesson1/task1/file1)` format.\n\n- You can insert shortcuts in the task description.\nWhile **task.html/task.md** is open, right-click anywhere\non the **Editor** tab and choose the **Insert shortcut** option\nfrom the context menu.\nFor example: &shortcut:FileStructurePopup;.\n\n- Insert the &percnt;`IDE_NAME`&percnt; macro,\nwhich will be replaced by the actual IDE name.\nFor example, **%IDE_NAME%**.\n\n- Insert PSI elements, by using links like\n`[element_description](psi_element://link.to.element)`.\nTo get such a link, right-click the class or method\nand select **Copy Reference**.\nThen press &shortcut:EditorPaste; to insert the link where appropriate.\nFor example, a [link to the \"contains\" method](psi_element://java.lang.String#contains).\n\n- You can add link to file using **full path** like this:\n  `[file_link](file://lesson1/task1/file.txt)`.\n",
+          "description_format" : "MD",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "framework"
+    }
+  ],
+  "additional_files" : [
+    {
+      "name" : "build.gradle",
+      "is_visible" : true,
+      "text" : "7HWfixI/EyaXQCdL+Z3ly4q/VVmpMDTH4e+zT+orXL5mEU1HXvSaybPoifxIc/yknFWmutCg1Vjg1Tjgw6IXHxKcPlx0owv+67e2egVpkmYivVxUNxJdSUvyTjeDn+c1Ovf/nOH7Qr4W+OdxC2jtPdORQ2xDOb9t9o5YpIxjFVJVVT+pWfgFQcyQtDoMk6S094knZggruzgZW9Pe4jdzYtzpMFVVnQwjoIEMF2Mwq3yElLKZA71WJWFB64bTMB4lE4jKC7QpBFEHUi4rU23ZrUIxtXaOH+be5HqfbLff7Xa+EPzWlZ8PU/D2gogBmjumqbj5x4KqtGvOJ+vUeExP9VLfr+5IHSmMSpXleE8GOPj+LN2t6DIu0JDmqvWho4XlE5EeIO/1aV/lhPbVBxgtf2PgeF4YUKfIaSNvZSSUHqhZdI6H4oukkPX6qdJ0OZImM70q/DtvQsbPKJCQpQLHI/V5ThZTMEfiEr9HCTuPGDhBYfn52QaOvT+ty5OGAHdCELDqDh+ca9xoAfeqTsR4oXDmJc8ahXMf2atEVbbOw5UCN8IxQS+abt/iNpOLGvq3XYWOJxHHWPOt5LfQrkMmYvXhANNcTl6yySIFahOMoLYhuS8y9u+ObHvrqiMTHKcJ8zdcjCJ0p14Kk37vyH22ug1emhHMial93tvtThM2SZsFPeGioe+c2l7XBMVgvdhOjt5CkK6A8JWGVl6wB7SFjK1/Mf7Xgo+erQNF6U6BElPy39kxZVikrw533mSKtTwpiiWqyElaKDFFrfq0wpAzPn0GP53UXXI4dMn4Jnrs1V0zNOGT3ddcXaqFHsh8GkdOs/UCJ8PtVSwisDXrKS8zifuWifJ11QdT26XjBP7fPmOY/rXBzZBiD4Q93Ld0gVXWYgBw9Q6e95mkRjAvCtk2XG4FF1UFQQGtfPMimKFnANTWVQpz1yoUK+m5caNNQBpQUCsPCeRlG2zF7xpXqDmOlKvAwl5ZVxc6xP6tBufNV19ycprjA6xq6lAN+REhLLkXIXjcFViNwYuSozHpeqlOTgnZJAYl0oPQEl+RcV/Rht8hBa96qLSnM/mwQYThya7T6q4/jFWvmWM0rFK7DcV3eg/oaZW+ZZx04G4Wp35t/7o9Uy40NAHhZoAcKCJQ+km6pyFX9fK1YN+te/9WQ8G5ATBWUqSP3VWr18uUsq1LuVPZqQA53Fuprt9u8Kv1u3Yb9dUjsUonxShZOz14WTDbrAvPrtX45Iz9AnMp32KG1lXJ4AY5YVZqldany8+ZQAaW4pi9yhPfAmWPzddcTNBw/bjNfd8ZSJ1jQ6AoeqE8E/1Eh/c+tfQr+ZTgDILd7iQqM0UwoIK7XkpDTplY7JyJ14kaMKbTqf1/FRTZxazzzzi8zR35ieH9N/ImRHDTmbSjGZU1sj+fS8xVvkfILg84n/YSmghWGC98KhirxVR30BKTfnP3fgn30or/F5pVEbBTjkVeFdPmvzxEBrQM4UFt4Y1dp9b8cCevZB39ClwCY+YusVHj4STSkQWuxcRvD+Q2lxLSe1uffNBs3k/SMvVEse84zqAFSXh/GcljnMuo4wssmgCECHjyylswCDohyaYyBm9EJycxKHgiHlfmD7XxqfIFPRFWSVKldwpJSJs5Inw="
+    },
+    {
+      "name" : "gradle.properties",
+      "is_visible" : true,
+      "text" : "MX+zIWalq6c34s1o9boQcnGhty/tLYNlLQgt7KLOlwWj/iIRGlSn8/DTTc6xsj7gnJexAAwdr/cjHRgWEO7SmYWdaV06KmgCTOWl2PYTcUqBj5Uv1dWl/2v+vh/YTolBqdK8J7VTu0EO//7y+K8kTEJf/Jy+VkFLAvu6i+1HFs4="
+    }
+  ],
+  "version" : 15,
+  "environment_settings" : {
+    "jvm_language_level" : "JDK_11"
+  },
+  "edu_plugin_version" : "2023.4-2022.2-2216"
+}
